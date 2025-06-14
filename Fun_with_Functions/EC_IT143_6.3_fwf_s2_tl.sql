@@ -1,0 +1,1 @@
+-- Reasoning: The first name is everything before the first space. We can use LEFT + CHARINDEX.
