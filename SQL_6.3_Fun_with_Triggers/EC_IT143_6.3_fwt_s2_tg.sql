@@ -1,0 +1,1 @@
+-- Raciocínio: Precisamos de colunas extras e um trigger que atualize após update.

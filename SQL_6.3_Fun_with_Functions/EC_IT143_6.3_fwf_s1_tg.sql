@@ -1,0 +1,1 @@
+-- Pergunta: Como extrair o primeiro nome do ContactName?

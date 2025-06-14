@@ -1,0 +1,1 @@
+-- Pergunta: Como registrar a data e usuário da última modificação de um cliente?

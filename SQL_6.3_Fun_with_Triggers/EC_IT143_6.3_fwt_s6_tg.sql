@@ -1,0 +1,1 @@
+-- Nova pergunta: Como registrar automaticamente o nome do usuário do servidor?
