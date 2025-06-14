@@ -1,1 +1,0 @@
--- Pesquisa: Usamos CHARINDEX para achar o espaço e LEFT para cortar a string antes dele.

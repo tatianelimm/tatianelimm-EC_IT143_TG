@@ -1,1 +1,0 @@
--- Raciocínio: Primeiro nome é a parte antes do primeiro espaço. Podemos usar LEFT + CHARINDEX.
