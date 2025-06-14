@@ -1,1 +1,0 @@
--- Reasoning: We need to add columns and create a trigger that updates after a record change.
