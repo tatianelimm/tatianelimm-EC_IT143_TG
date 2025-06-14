@@ -1,1 +1,0 @@
--- Next Question: How to automatically store the server user who made the last update?
