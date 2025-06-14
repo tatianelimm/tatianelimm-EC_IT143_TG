@@ -1,1 +1,0 @@
--- Research: Using CHARINDEX to locate the space and LEFT to trim the string.
